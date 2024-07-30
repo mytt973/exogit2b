@@ -5,9 +5,30 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
 
+}
+/* #d7d0d0 */
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+section{width: 400px;
+  background-color: burlywood;}
+  header{background-color: #8d3f39;}
+html{ background-color: #d7d0d0;}
+
+    footer {
+        width: 100%;
+        opacity: 0.4;
+  position: relative;bottom: -110px;
+        background-color: #004669;
+        color: white;
+        text-align: center;
+        
+        
+    }
+    .formule{ padding-top:15px ;width: 400px; background-color: blanchedalmond;}
+    
+
+
+
